@@ -7,7 +7,7 @@
     box-sizing: border-box;
 }
 body{
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(75,14,154,1) 35%, rgba(0,212,225,1) 100%);
+    background: linear-gradient(90deg, rgb(148, 174, 177) 0%, rgb(216, 243, 254) 35%, rgb(233, 243, 246) 100%);
     font-family: 'Roboto', sans-serif;
 }
 
@@ -22,7 +22,7 @@ form{
     width: 100%;
     border: none;
     border-radius: 50px;
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(75,14,154,1) 35%, rgba(0,212,225,1) 100%);
+    background: linear-gradient(90deg, rgb(60, 60, 57) 0%, rgb(65, 64, 57) 35%, rgb(62, 62, 57) 100%);
 }
 .form-control{
     color:rbga(0,0,0,.87);
